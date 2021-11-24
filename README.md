@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sandersades. my name is Sander, im 20 y o. Russian
+- 👋 Hi, I’m @sandersades. my name is Sander, im 20 y o. Russian. And i`m not good in english
 - 👀 I’m interested in music, anime, movies and sport
 - 🌱 I’m currently learning c#
 - 💞️ I’m looking to collaborate on c# learning maybe
