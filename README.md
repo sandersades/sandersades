@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sandersades. my name is Sander, im 20 y o. Russian
+- 👀 I’m interested in music, anime, movies and sport
+- 🌱 I’m currently learning c#
+- 💞️ I’m looking to collaborate on c# learning maybe
+- 📫 How to reach me @vidmiaan - inst
